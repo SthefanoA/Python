@@ -1,4 +1,5 @@
 # Python
 Python Projects
-#Numpy/MatPlotLib Examples
-#Lab11
+
+This repository includes a mix of school projects along with personal projects
+Libraries Used: Numpy/MatPlotLib/ScikitLearn
